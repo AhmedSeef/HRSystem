@@ -1,0 +1,18 @@
+<table class="table table-border">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Sign in Time</th>
+      <th>Sign out Time</th>
+      <th>Working hours</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of data" [ngStyle]="{'background-color':user.workingHours.hours < 8 ? 'red' : ''}">
+      <td>{{ user.signInDate }}</td>
+      <td>{{ user.signInTime }}</td>
+      <td>{{ user.signOutTime }}</td>      
+      <td>{{user.workingHours.hours }} : {{user.workingHours.minutes}}</td>      
+    </tr>
+  </tbody>
+</table>

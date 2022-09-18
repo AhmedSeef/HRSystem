@@ -1,0 +1,17 @@
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.Repository.deps.json
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.Repository.dll
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.Repository.pdb
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.Data.dll
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.DTO.dll
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.Model.dll
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.Data.pdb
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.DTO.pdb
+D:\HRSystem\HRSystem.Repository\bin\Debug\netcoreapp3.1\HRSystem.Model.pdb
+D:\HRSystem\HRSystem.Repository\obj\Debug\netcoreapp3.1\HRSystem.Repository.csproj.AssemblyReference.cache
+D:\HRSystem\HRSystem.Repository\obj\Debug\netcoreapp3.1\HRSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRSystem\HRSystem.Repository\obj\Debug\netcoreapp3.1\HRSystem.Repository.AssemblyInfoInputs.cache
+D:\HRSystem\HRSystem.Repository\obj\Debug\netcoreapp3.1\HRSystem.Repository.AssemblyInfo.cs
+D:\HRSystem\HRSystem.Repository\obj\Debug\netcoreapp3.1\HRSystem.Repository.csproj.CoreCompileInputs.cache
+D:\HRSystem\HRSystem.Repository\obj\Debug\netcoreapp3.1\HRSystem.Repository.csproj.CopyComplete
+D:\HRSystem\HRSystem.Repository\obj\Debug\netcoreapp3.1\HRSystem.Repository.dll
+D:\HRSystem\HRSystem.Repository\obj\Debug\netcoreapp3.1\HRSystem.Repository.pdb

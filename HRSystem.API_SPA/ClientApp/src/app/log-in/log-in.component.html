@@ -1,0 +1,46 @@
+<div class="global-container">
+  <div class="card login-form">
+    <div class="card-body">
+      <h3 class="card-title text-center">Log in to Hr System</h3>
+      <div class="card-text">
+        <!--
+			<div class="alert alert-danger alert-dismissible fade show" role="alert">Incorrect username or password.</div> -->
+        <form #loginForm="ngForm" (ngSubmit)="logIn()" autocomplete="off">
+          <!-- to error: add class "has-danger" -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" class="form-control form-control-sm" id="exampleInputEmail1" [(ngModel)]="model.Email"
+              name="userEmail" #userEmail="ngModel" required
+              pattern="^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$"
+              aria-describedby="emailHelp" />
+              <div class="alert-danger" [hidden]="userEmail.valid || userEmail.untouched">
+                <div  *ngIf="userEmail.errors && userEmail.errors.required">
+                    Email is required
+                </div>
+                <div  *ngIf="userEmail.errors && userEmail.errors.pattern">
+                    Email is invalid
+                </div>
+            </div>
+          </div>
+         
+          <div class="form-group">
+            <label for="exampleInputPassword1">Password</label>
+            <a href="#" style="float: right; font-size: 12px">Forgot password?</a>
+            <input type="password" class="form-control form-control-sm" id="exampleInputPassword1"
+              [(ngModel)]="model.Password" name="userPassword" #userPassword="ngModel" required />
+
+              <div class="alert-danger" [hidden]="userPassword.valid || userPassword.untouched">
+                <div  *ngIf="userPassword.errors && userPassword.errors.required">
+                    password is required
+                </div>               
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary btn-block" [disabled]="!loginForm.form.valid">
+            Sign in
+          </button>
+          <span style="color: red">{{ errorMessage }}</span>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

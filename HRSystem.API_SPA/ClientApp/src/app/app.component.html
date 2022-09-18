@@ -1,0 +1,6 @@
+<body>
+  <div class="container">
+    <app-home-page *ngIf="loggedin" (logoutShowHideFromHome)="AfterLogOut($event)"></app-home-page>
+    <app-log-in (showAndHide)="AfterLogin($event)" *ngIf="!loggedin"></app-log-in>
+  </div>
+</body>

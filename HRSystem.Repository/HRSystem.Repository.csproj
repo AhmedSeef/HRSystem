@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HRSystem.Data\HRSystem.Data.csproj" />
+    <ProjectReference Include="..\HRSystem.DTO\HRSystem.DTO.csproj" />
+    <ProjectReference Include="..\HRSystem.Model\HRSystem.Model.csproj" />
+  </ItemGroup>
+
+</Project>

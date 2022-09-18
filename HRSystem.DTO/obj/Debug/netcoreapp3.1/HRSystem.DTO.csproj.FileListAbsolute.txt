@@ -1,0 +1,13 @@
+D:\HRSystem\HRSystem.DTO\bin\Debug\netcoreapp3.1\HRSystem.DTO.deps.json
+D:\HRSystem\HRSystem.DTO\bin\Debug\netcoreapp3.1\HRSystem.DTO.runtimeconfig.json
+D:\HRSystem\HRSystem.DTO\bin\Debug\netcoreapp3.1\HRSystem.DTO.runtimeconfig.dev.json
+D:\HRSystem\HRSystem.DTO\bin\Debug\netcoreapp3.1\HRSystem.DTO.dll
+D:\HRSystem\HRSystem.DTO\bin\Debug\netcoreapp3.1\HRSystem.DTO.pdb
+D:\HRSystem\HRSystem.DTO\obj\Debug\netcoreapp3.1\HRSystem.DTO.csproj.AssemblyReference.cache
+D:\HRSystem\HRSystem.DTO\obj\Debug\netcoreapp3.1\HRSystem.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRSystem\HRSystem.DTO\obj\Debug\netcoreapp3.1\HRSystem.DTO.AssemblyInfoInputs.cache
+D:\HRSystem\HRSystem.DTO\obj\Debug\netcoreapp3.1\HRSystem.DTO.AssemblyInfo.cs
+D:\HRSystem\HRSystem.DTO\obj\Debug\netcoreapp3.1\HRSystem.DTO.csproj.CoreCompileInputs.cache
+D:\HRSystem\HRSystem.DTO\obj\Debug\netcoreapp3.1\HRSystem.DTO.dll
+D:\HRSystem\HRSystem.DTO\obj\Debug\netcoreapp3.1\HRSystem.DTO.pdb
+D:\HRSystem\HRSystem.DTO\obj\Debug\netcoreapp3.1\HRSystem.DTO.genruntimeconfig.cache

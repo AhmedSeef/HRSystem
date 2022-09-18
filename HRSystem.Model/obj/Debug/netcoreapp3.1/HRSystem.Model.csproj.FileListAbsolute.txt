@@ -1,0 +1,10 @@
+D:\HRSystem\HRSystem.Model\bin\Debug\netcoreapp3.1\HRSystem.Model.deps.json
+D:\HRSystem\HRSystem.Model\bin\Debug\netcoreapp3.1\HRSystem.Model.dll
+D:\HRSystem\HRSystem.Model\bin\Debug\netcoreapp3.1\HRSystem.Model.pdb
+D:\HRSystem\HRSystem.Model\obj\Debug\netcoreapp3.1\HRSystem.Model.csproj.AssemblyReference.cache
+D:\HRSystem\HRSystem.Model\obj\Debug\netcoreapp3.1\HRSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRSystem\HRSystem.Model\obj\Debug\netcoreapp3.1\HRSystem.Model.AssemblyInfoInputs.cache
+D:\HRSystem\HRSystem.Model\obj\Debug\netcoreapp3.1\HRSystem.Model.AssemblyInfo.cs
+D:\HRSystem\HRSystem.Model\obj\Debug\netcoreapp3.1\HRSystem.Model.csproj.CoreCompileInputs.cache
+D:\HRSystem\HRSystem.Model\obj\Debug\netcoreapp3.1\HRSystem.Model.dll
+D:\HRSystem\HRSystem.Model\obj\Debug\netcoreapp3.1\HRSystem.Model.pdb
